@@ -17,4 +17,4 @@ Selected Design Resources
 
 ## Logo
 
-- - [Flaticons.com](http://flaticons.com/) allows free edits and downloads of icons
+- - [Flaticon.com](http://flaticon.com/) allows free edits and downloads of icons
